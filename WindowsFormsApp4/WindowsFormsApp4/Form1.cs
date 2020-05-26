@@ -16,5 +16,6 @@ namespace WindowsFormsApp4
         {
             InitializeComponent();
         }
+        // nada va aca jajajaaj va en otro lado
     }
 }

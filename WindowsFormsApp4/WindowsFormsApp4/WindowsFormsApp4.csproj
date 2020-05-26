@@ -91,6 +91,12 @@
         </Reference>
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="admin.cs">
+          <SubType>Form</SubType>
+        </Compile>
+        <Compile Include="admin.Designer.cs">
+          <DependentUpon>admin.cs</DependentUpon>
+        </Compile>
         <Compile Include="ConnectionDB.cs" />
         <Compile Include="Form1.cs">
             <SubType>Form</SubType>
@@ -98,58 +104,28 @@
         <Compile Include="Form1.Designer.cs">
             <DependentUpon>Form1.cs</DependentUpon>
         </Compile>
-        <Compile Include="Inventary.cs">
-          <SubType>UserControl</SubType>
-        </Compile>
-        <Compile Include="Inventary.Designer.cs">
-          <DependentUpon>Inventary.cs</DependentUpon>
-        </Compile>
         <Compile Include="LogIn.cs">
           <SubType>UserControl</SubType>
         </Compile>
         <Compile Include="LogIn.Designer.cs">
           <DependentUpon>LogIn.cs</DependentUpon>
         </Compile>
-        <Compile Include="OrderHistory.cs">
-          <SubType>UserControl</SubType>
-        </Compile>
-        <Compile Include="OrderHistory.Designer.cs">
-          <DependentUpon>OrderHistory.cs</DependentUpon>
-        </Compile>
-        <Compile Include="PanelUsers.cs">
-          <SubType>Form</SubType>
-        </Compile>
-        <Compile Include="PanelUsers.Designer.cs">
-          <DependentUpon>PanelUsers.cs</DependentUpon>
-        </Compile>
-        <Compile Include="PrincipalPanel.cs">
-          <SubType>UserControl</SubType>
-        </Compile>
-        <Compile Include="PrincipalPanel.Designer.cs">
-          <DependentUpon>PrincipalPanel.cs</DependentUpon>
-        </Compile>
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
-        <Compile Include="Users.cs">
-          <SubType>UserControl</SubType>
+        <Compile Include="usuario.cs">
+          <SubType>Form</SubType>
         </Compile>
-        <Compile Include="Users.Designer.cs">
-          <DependentUpon>Users.cs</DependentUpon>
+        <Compile Include="usuario.Designer.cs">
+          <DependentUpon>usuario.cs</DependentUpon>
         </Compile>
+        <EmbeddedResource Include="admin.resx">
+          <DependentUpon>admin.cs</DependentUpon>
+        </EmbeddedResource>
         <EmbeddedResource Include="Form1.resx">
           <DependentUpon>Form1.cs</DependentUpon>
         </EmbeddedResource>
-        <EmbeddedResource Include="Inventary.resx">
-          <DependentUpon>Inventary.cs</DependentUpon>
-        </EmbeddedResource>
         <EmbeddedResource Include="LogIn.resx">
           <DependentUpon>LogIn.cs</DependentUpon>
-        </EmbeddedResource>
-        <EmbeddedResource Include="OrderHistory.resx">
-          <DependentUpon>OrderHistory.cs</DependentUpon>
-        </EmbeddedResource>
-        <EmbeddedResource Include="PrincipalPanel.resx">
-          <DependentUpon>PrincipalPanel.cs</DependentUpon>
         </EmbeddedResource>
         <EmbeddedResource Include="Properties\Resources.resx">
             <Generator>ResXFileCodeGenerator</Generator>
@@ -160,8 +136,8 @@
             <AutoGen>True</AutoGen>
             <DependentUpon>Resources.resx</DependentUpon>
         </Compile>
-        <EmbeddedResource Include="Users.resx">
-          <DependentUpon>Users.cs</DependentUpon>
+        <EmbeddedResource Include="usuario.resx">
+          <DependentUpon>usuario.cs</DependentUpon>
         </EmbeddedResource>
         <None Include="bin\Debug\WindowsFormsApp4.exe.config" />
         <None Include="obj\Debug\WindowsFormsApp4.exe.config" />

@@ -21,9 +21,24 @@ namespace WindowsFormsApp4
             {
                 try
                 {
-                    ConnectionDB.ExecuteNonQuery($"SELECT FROM USUARIO WHERE nombreUsuario ='{textBox1.Text}' AND contraseña ='{textBox2.Text}'");
+                    var valido = ConnectionDB.ExecuteQuery(
+                        $"SELECT * FROM USUARIO WHERE nombreUsuario ='{textBox1.Text}' AND contraseña ='{textBox2.Text}'");
+
+                    if (valido.Rows.Count > 0)
+                    {
+
+                        if (valido.Rows[0][2].ToString() == "Admin")
+                        {
+                            new admin(valido.Rows[0][0].ToString(), valido.Rows[0][1].ToString()).Show();
+
+                        }
+                        else
+                        {
+                            new usuario(valido.Rows[0][0].ToString(), valido.Rows[0][1].ToString()).Show();
+                        }
+                        
+                    }
                     
-                    MessageBox.Show("Bienvenido");
                     
                 }
                 catch (Exception ex)
