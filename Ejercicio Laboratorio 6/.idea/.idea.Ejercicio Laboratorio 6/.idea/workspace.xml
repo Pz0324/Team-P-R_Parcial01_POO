@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a3e79c5-de17-4e1e-9f18-9cd34b1afb0a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Ejercicio Laboratorio 6/RepeatedDataException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ejercicio Laboratorio 6/Evaluacion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ejercicio Laboratorio 6/Parcial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ejercicio Laboratorio 6/Tarea.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ejercicio Laboratorio 6/Laboratorio.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ejercicio Laboratorio 6/CalcularNota.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ejercicio Laboratorio 6/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Ejercicio Laboratorio 6/NotNumberValidException.cs" />
+        <option value="$PROJECT_DIR$/Ejercicio Laboratorio 6/Parcial.cs" />
+        <option value="$PROJECT_DIR$/Ejercicio Laboratorio 6/Tarea.cs" />
+        <option value="$PROJECT_DIR$/Ejercicio Laboratorio 6/Evaluacion.cs" />
+        <option value="$PROJECT_DIR$/Ejercicio Laboratorio 6/CalcularNota.cs" />
+        <option value="$PROJECT_DIR$/Ejercicio Laboratorio 6/RepeatedDataException.cs" />
+        <option value="$PROJECT_DIR$/Ejercicio Laboratorio 6/Laboratorio.cs" />
+        <option value="$PROJECT_DIR$/Ejercicio Laboratorio 6/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bEIm1pLr4pWv2hFp8T6ZZJlrXE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Ejercicio Laboratorio 6" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Ejercicio Laboratorio 6/Ejercicio Laboratorio 6.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a3e79c5-de17-4e1e-9f18-9cd34b1afb0a" name="Default Changelist" comment="" />
+      <created>1588190982066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588190982066</updated>
+      <workItem from="1588190985538" duration="6408000" />
+      <workItem from="1588201561093" duration="1781000" />
+      <workItem from="1588203943417" duration="243000" />
+      <workItem from="1588275220443" duration="3753000" />
+      <workItem from="1588280031631" duration="6171000" />
+      <workItem from="1588299930196" duration="930000" />
+      <workItem from="1588301723681" duration="553000" />
+      <workItem from="1588353182658" duration="15736000" />
+      <workItem from="1588433642285" duration="4273000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1601" height="229" key="GridCell.Tab.0.bottom" timestamp="1588204200234">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1601" height="229" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1588204200234" />
+    <state width="1601" height="229" key="GridCell.Tab.0.center" timestamp="1588204200233">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1601" height="229" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1588204200233" />
+    <state width="1601" height="229" key="GridCell.Tab.0.left" timestamp="1588204200233">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1601" height="229" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1588204200233" />
+    <state width="1601" height="229" key="GridCell.Tab.0.right" timestamp="1588204200234">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1601" height="229" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1588204200234" />
+    <state x="604" y="104" key="RiderGenerateDialog" timestamp="1588435389403">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="604" y="104" key="RiderGenerateDialog/0.0.1600.860@0.0.1600.860" timestamp="1588435389403" />
+  </component>
+</project>

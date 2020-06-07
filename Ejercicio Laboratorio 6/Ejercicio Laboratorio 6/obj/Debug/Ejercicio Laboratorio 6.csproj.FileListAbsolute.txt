@@ -1,0 +1,5 @@
+C:\Users\FamiliaBarrera\RiderProjects\Ejercicio Laboratorio 6\Ejercicio Laboratorio 6\bin\Debug\Ejercicio_Laboratorio_6.exe
+C:\Users\FamiliaBarrera\RiderProjects\Ejercicio Laboratorio 6\Ejercicio Laboratorio 6\bin\Debug\Ejercicio_Laboratorio_6.pdb
+C:\Users\FamiliaBarrera\RiderProjects\Ejercicio Laboratorio 6\Ejercicio Laboratorio 6\obj\Debug\Ejercicio Laboratorio 6.csprojAssemblyReference.cache
+C:\Users\FamiliaBarrera\RiderProjects\Ejercicio Laboratorio 6\Ejercicio Laboratorio 6\obj\Debug\Ejercicio_Laboratorio_6.exe
+C:\Users\FamiliaBarrera\RiderProjects\Ejercicio Laboratorio 6\Ejercicio Laboratorio 6\obj\Debug\Ejercicio_Laboratorio_6.pdb
